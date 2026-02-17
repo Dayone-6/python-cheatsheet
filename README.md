@@ -3587,3 +3587,6 @@ Index
 branch2 test1
 branch2 test2
 branch2 test3
+branch1 test1
+branch1 test2
+branch1 test3
